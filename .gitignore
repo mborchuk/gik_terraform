@@ -1,0 +1,7 @@
+.*
+
+!/.gitignore
+
+terraform.tfstate
+terraform.tfstate.*
+*.json
